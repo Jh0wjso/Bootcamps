@@ -1,0 +1,40 @@
+Entendendo git e sua importância 
+	1 controle de versão
+	2 armazenamento em nuvem
+	3 trabalho em equipe
+	4 melhorar seu codigo
+	5 Reconhecimento
+
+Comandos básicos para um bom desempenho no terminal:
+	dir -> mostra os arquivos
+	cd -> vai pra uma pasta
+	mkdir -> cria a pasta
+	cls -> clear
+	echo -> print('texto')
+	cd.. -> sai da pasta
+	del -> deleta arquivos e se for uma pasta ele apaga o qque ta dentro dela
+	-a -> mostra os arquivos escondidos
+	rmdir -> deleta pastas ex: rmdir "pasta(sem as aspas)" /S /Q(esse /S e /Q se tiver coisa dentro dela.
+
+GIT por baixo dos panos:
+	SHA1 -> encriptacao;
+	Blobs -> armazena o sha1	
+	Trees-> armazena o bloob - > guarda o sha e o nome
+	Commits -> armazena a tree, parente autor, mensagem e timestamp
+
+Chaves SSH e Tokens:
+	Chave SSH ->
+
+Iniciando o Git e criando um commit:
+	-git init -> cria e inicializa um repositorio
+	-git add -> 
+	-git commit -> a alteracao no projeto
+
+Se houver conflitos de merge:
+	usa o pull;
+	git add *;
+	git comit;
+
+Para clonar um repositorio:
+	pegar a URL no github;
+	git clone URL;

@@ -1,0 +1,8 @@
+Desafio:
+	O desafio era o de criar um repositório
+para mostar como você está aprendendo com
+o bootcamp, também para compartilhar com 
+outros devs, que é esse repositório aqui.
+
+E o link para os slides da aula está aqui:
+https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view
