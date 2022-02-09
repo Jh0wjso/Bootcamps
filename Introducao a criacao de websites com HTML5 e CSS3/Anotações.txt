@@ -1,0 +1,31 @@
+(Aqui não estarão as respostas para os desafios, nem o material de apoio).
+
+1º Módulo:
+	Neste módulo ele nos mostra sobre os principais tópicos que serão aboradados no decorrer do curso, e além de nos mostrar toda a estrtura básica em html.
+					----------------------
+2º Módulo:
+	Neste módulo o professor nos explica sobre semantica que basicamente é a maneira de tornar as informações de um site bem mastigadas e compreensíveis para o pc,
+úteis até mesmo em suas pesquisas no Google e para facilitar a compreensão dos leitores de acessibilidade, e também faz uma atualização no site apresentado.
+					----------------------
+
+3º Módulo:
+	Este módulo mais simples, nos é apresentado sobre as tags de texto e links, como, <a>, <p>, <h1> <h2>..., na aula final no temos um exemplo prático das aplicações.
+					----------------------
+4º Módulo:
+	Este módulo possui apenas duas aulas, a primeira explicando a tag <img> e a segunda com um exemplo prático.
+					----------------------
+5º Módulo:
+	Neste módulo o professor nos ensina sobre listas em html e nos mostra um exemplo prático e depois há uma pequena avaliação de conteúdo.
+					----------------------
+6º Módulo:
+	Este módulo do curso nos introduz sobre o CSS3, e mostra como ele é importante para o front-end de um site, com o padding e os demais atributos básicos.
+					----------------------
+7º Módulo:
+	Este módulo nos mostra os primeiros ensinamentos sobre a estlização de texto, imagens e listas, para deixar o site "mais apresentável".
+						----------------------
+8º Módulo:
+	Neste módulo ele nos apresenta alguns dos mais importantes temas em CSS3 que é o alinhamento e o dimensionamento, usando Width, height, margin, text-align, etc.
+E por fim a última avaliação do curso.
+						----------------------
+
+	No primeiro módulo do curso o professor nos apresenta os conceito básicos da internet sobre seu funcionamento, e consceitos básicos, e como a internet está inserida
