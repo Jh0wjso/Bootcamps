@@ -1,7 +1,8 @@
 (As respostas dos exercícios não estarão aqui).
 
 1º Módulo:
-	No primeiro módulo do curso o professor nos apresenta os conceito básicos da internet sobre seu funcionamento, e consceitos básicos, e como a internet está inserida e o quão avançada ela está hoje.
+	No primeiro módulo do curso o professor nos apresenta os conceito básicos da internet sobre seu funcionamento, e consceitos básicos, e como a internet está inserida 
+	e o quão avançada ela está hoje.
 			----------------------------------
 2º Módulo:
 	No segundo módulo o professor nos apresenta os conceitos básicos de redes e conexões em Backbone, Provedores de acesso servidor, cliente entre outras coisas.
@@ -13,10 +14,12 @@
 	Neste módulo explica a conexão entre os dispositivos móvies, conxão com a internet ou até mesmo conexão local.
 			----------------------------------
 5º Módulo:
-	Neste módulo o professor nos explica o que são os browser e como a internet estaria se não houvessem navegadores e como os sites funcionam e os tipos deles e como último tópico eles nos explica sobre serviços Web.
+	Neste módulo o professor nos explica o que são os browser e como a internet estaria se não houvessem navegadores e como os sites funcionam e os tipos deles e c
+	como último tópico eles nos explica sobre serviços Web.
 			----------------------------------
 6º Módulo:
-	Neste módulo ele explica as Stacks, Front, Back e FullStack, que são respectivamente o que trabalha com a parte Frontal/Visual, a parte por baixo dos panos e que faz o trabalho pesado, e FullStack é o profissional que trabalha com essas duas areas.
+	Neste módulo ele explica as Stacks, Front, Back e FullStack, que são respectivamente o que trabalha com a parte Frontal/Visual, a parte por baixo dos panos e que 
+	faz o trabalho pesado, e FullStack é o profissional que trabalha com essas duas areas.
 			----------------------------------
 7º Módulo:
 	Para este módulo o professor nos apresentas as Linguagens de Programação ou LP e o termos usados nelas, ou seja, a lógica de programação.
