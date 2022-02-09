@@ -26,4 +26,4 @@
 
 			----------------------------------
 8º Módulo:
-	Neste módulo o professor faz uma aula prática de php básico.
+	Neste módulo o professor faz uma aula prática de PHP básico.
