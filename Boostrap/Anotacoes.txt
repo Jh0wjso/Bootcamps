@@ -1,0 +1,5 @@
+Boostrap é um framework que facilita o desenvolvimento web,
+além de ser muito poderoso também é muito intuitivo.
+
+Esse Curso do Bootcamp é totalmente prático por isso não
+terá muitas anotações.
