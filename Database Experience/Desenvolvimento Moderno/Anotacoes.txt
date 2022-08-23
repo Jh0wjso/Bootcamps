@@ -1,0 +1,35 @@
+UI/UX
+
+UX Desing:
+    A sigla UX significa User Experience, podendo ser traduzida como Experiência do Usuário. 
+    Trata-se de como o cliente interage com o seu produto ou serviço a partir dos elementos disponibilizados. 
+    Como o próprio nome já revela, a experiência passada ao cliente é determinante para o sucesso ou fracasso de uma marca.
+
+UI:
+    Já a sigla UI significa User Interface, podendo ser traduzida como a Interface do Usuário. 
+    Trata-se de uma área voltada para criação de interfaces mais fáceis e amigáveis.
+
+Front End:
+    Podemos classificar como a parte visual de um site, aquilo que conseguimos interagir. Quem trabalha com Front End 
+    é responsável por desenvolver por meio do código uma interface gráfica e, normalmente, com as tecnologias base da Web: 
+    HTML, CSS e JavaScript.
+
+Back End:
+    Como o próprio nome sugere, vem da ideia daquilo que tem por trás de uma aplicação. 
+    O Back-End trabalha em boa parte dos casos fazendo a ponte entre os dados que vem do navegador rumo ao banco de dados e 
+    vice-versa, sempre aplicando as devidas regras de negócio, validações e garantias num ambiente restrito ao usuário final 
+    (ou seja, onde ele não consegue acessar ou manipular algo).
+
+Full-Stack:
+    Em resumo, Full Stack developer é quem trabalha com Front End e Back End.
+
+FrameWork:
+    Simplificando é um facilitador, ele traz várias soluçoes já pré definidas, que descomplicam o trabalho dos profissionais
+    no desenvolimento de apps e outros projetos.
+
+QA:
+    È responsável por manter o alto npivel das ações das empresas, pois no desenvolimento do software, applicar os métodos de QA
+    geram confiança e segunraça aos clientes, indicando que seus produtos terão qualidade esperada na etapa de implementação.
+
+Cloud:
+    São os sistemas que servem de armazenamento via a internet, em vez de os servidores fisicos tradicionais.
