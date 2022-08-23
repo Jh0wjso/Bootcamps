@@ -1,0 +1,35 @@
+Um banco de dados é uma coleção organizada de informações - ou dados - 
+estruturadas, normalmente armazenadas eletronicamente em um sistema de 
+computador. Um banco de dados é geralmente controlado por um sistema de 
+gerenciamento de banco de dados (DBMS). Juntos, os dados e o DBMS, 
+juntamente com os aplicativos associados a eles, são chamados de sistema de 
+banco de dados, geralmente abreviados para apenas banco de dados.
+
+Os dados nos tipos mais comuns de bancos de dados em operação atualmente são 
+modelados em linhas e colunas em uma série de tabelas para tornar o 
+processamento e a consulta de dados eficientes. Os dados podem ser facilmente
+acessados, gerenciados, modificados, atualizados, controlados e organizados.
+A maioria dos bancos de dados usa a linguagem de consulta estruturada (SQL)
+para escrever e consultar dados.
+
+SGBDs
+Um Sistema de Gerenciamento de Banco de Dados (SGBD) – do inglês 
+Data Base Management System (DBMS) – é o conjunto de programas de 
+computador (softwares) responsáveis pelo gerenciamento de uma base de dados.
+Seu principal objetivo é retirar da aplicação cliente a responsabilidade de 
+gerenciar o acesso, a manipulação e a organização dos dados. 
+O SGBD disponibiliza uma interface para que seus clientes possam incluir,
+alterar ou consultar dados previamente armazenados. Em bancos de dados 
+relacionais a interface é constituída pelas APIs (Application Programming 
+Interface) ou drivers do SGBD, que executam comandos na linguagem SQL 
+(Structured Query Language).
+
+O modelo relacional foi proposto por Edgar Codd em 1970, como uma nova maneira de
+representação de dados. Neste seu trabalho Codd mostrou que uma visão relacional dos
+dados permite a sua descrição em uma maneira natural, sem que sejam necessárias
+estruturas adicionais para sua representação, provendo uma maior independência dos
+dados em relação aos programas. Em complementação, apresentou bases para tratar
+problemas como redundância e consistência. Mais tarde, em outro trabalho, Codd
+definiu uma álgebra relacional e provou, por meio de sua equivalência com o cálculo
+relacional, que ela era relacionalmente completa, dando fundamentação teórica ao
+modelo relacional. 
