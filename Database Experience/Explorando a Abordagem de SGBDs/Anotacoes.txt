@@ -1,0 +1,27 @@
+Os SGBD (Sistemas de Gestão de Bases de Dados) têm um conjunto de requisitos funcionais: a Segurança, a Integridade (só inclui dados válidos relativamente à realidade), 
+o Controlo de Concorrência (Locking, Etiquetagem ou Optimista), e recuperação e tolerância a falhas (Backup e Transactionlogging).
+
+Completa definição ou descrição da estrutura desse banco de dados e suas restrições, É armazenada no catálogo do SGBD, É chamada de metadados.
+Um SGBD deve ser capaz de trabalhar com vários bancos de dados, o que não ocorre com soluções específicas que possuem as próprias definições dos dad
+
+No processamento tradicional de arquivos a estrutura está embutida no programa de aplicação. Qualquer mudança na estrutura pode exigir alterações de todos os programas que 
+acessam esse arquivo. Num SGBD uma alteração na estrutura dos dados geralmente não implica em alterações na implementação. Isso permite a abstração dos dados, onde usuários
+e programadores não necessitam de conhecer detalhes de implementação para saber um que uma operação faz. Isso é possível graças à implementação genérica de acesso ao catálogo.
+
+Usuários diferentes querem enxergar o banco conforme sua perspectiva.
+Dados visualizados podem ser diferentes dos dados armazenados. P.Exemplo data, dados codificados (procedimentos de apac, CID, ATC)
+Dados identificados de pacientes devem ser restringidos mediante o perfil do usuário
+
+Software de controle de concorrência:
+Dois usuários não podem alterar o mesmo registro ao mesmo tempo
+O Controle de Transação garante
+Isolamento: cada transação possa ser efetuada de forma isolada de outras
+Atomicidade: todas as operações em um BD serão executadas ou nenhuma
+
+Administrador de banco de dados – DBA: Autorização de acesso ao banco, Coordenação de monitoração do seu uso, Adquirir recursos de software e hardware, lida com problemas com brechas de segurança e Tempo de resposta
+Projetista de banco de dados: Identificação dos dados a serem armazenados, Escolha da estrutura apropriada, Coletar os requisitos, Desenvolver visões do BD.
+Usuários casuais: Acesso direto ao banco com linguagem de consulta pois precisam de informações diferentes a cada acesso
+Iniciantes ou parametrizáveis: Usam transações customizadas
+Usuários sofisticados: Engenheiros, cientistas, analistas de negócios que se familiarizaram com as facilidades do SGBD para implementar aplicações que atendam às suas solicitações complexas
+Usuário autônomo: Mantém bancos de dados pessoais por meio de pacotes ou programas prontos que possuem interfaces gráficas baseadas em menus fáceis de usar
+
