@@ -1,0 +1,13 @@
+PORQUE MODELAR UM BANCO DE DADOS?
+
+    O grande objetivo de aplicar a modelagem de banco de dados na constituição dos sistemas de software é obter 
+uma demonstração de como serão estruturados os dados dentro daquela plataforma para que o negócio fique em 
+operação da forma necessária.
+
+    Em função disso, é fundamental que sejam desenhados projetos de banco de dados, seguindo etapas definidas 
+para que haja o mínimo possível de falhas no produto final. 
+
+    Previamente à estruturação e desenvolvimento de modelos de dados é preciso realizar uma análise de requisitos, 
+ou seja, em conversa com o cliente entender qual a sua necessidade com aquele software que será desenvolvido, 
+quais as regras de negócio que serão aplicadas e como a modelagem de banco de dados poderá ajudar as equipes de TI
+a estruturarem-no da forma mais fiel possível às expectativas traçadas.

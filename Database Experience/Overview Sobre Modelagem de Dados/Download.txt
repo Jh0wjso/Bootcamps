@@ -1,0 +1,4 @@
+Neste Bootcamp usaremos Mysql e Postgres:
+    links:
+        My sql: https://www.mysql.com/downloads/
+        Postgres: https://www.postgresql.org/download/ 
