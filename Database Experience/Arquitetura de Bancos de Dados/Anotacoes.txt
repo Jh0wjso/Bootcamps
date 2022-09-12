@@ -1,0 +1,20 @@
+Arquitetura dos dados é a disposição que diferentes empresas encontram para organizar seus dados, 
+ativos digitais e as relações entre eles.
+
+Ou seja, assim como organizamos nossas roupas em armários, closets e gavetas de diferentes maneiras, o mesmo 
+também é feito com a informação em formato eletrônico.
+
+Por isso, uma arquitetura eficiente é aquela que garante o acesso aos dados com segurança, no tempo adequado 
+e de forma inteligível para seus usuários.
+
+Um bom exemplo de aplicação da arquitetura de dados é quando são desenvolvidas as ferramentas de armazenamento 
+nas empresas.
+
+Nelas, os elementos ficarão arquivados de forma estruturada, podendo ou não agregar dados e informações 
+de outros sistemas e plataformas.
+
+É o que fazem, por exemplo, sistemas como SQL Server, Big Query, Oracle Database e Cloud SQL.
+
+A arquitetura de banco de dados também aparece na prática como solucionadora de problemas.
+
+Esquema => Descriçao consisa do banco de dados.
