@@ -1,0 +1,33 @@
+Mini mundo => Mini-mundo é uma parcela do mundo real de interesse do usuário. Equivale a Domínio do Problema, Domínio de Conhecimento ou Universo/Domínio de Discurso. Em Teoria dos Modelos, o termo "universo de discurso" se refere ao conjunto de entidades nas quais um modelo é baseado
+
+Algebra relacional => é uma linguagem de consulta formal, porém procedimental, ou seja, o usuário dá as instruções ao sistema para que o mesmo realize uma seqüência de operações na base de dados para calcular o resultado desejado.
+
+Como nasce um banco de dados:
+    -> O que represenstar?
+        -> Entender o contexto e requisitos
+        -> Difinir o Perfil
+    -> Processo seletivo:
+        -> implementacao
+        -> arquitetura
+        -> modelo
+        -> funcionalidades
+    -> Cenarios:
+        -> E-commerce
+        -> Banco
+        -> Universidade
+        -> entre outras...
+
+Modelo conceitual => concentra-se no mais alto nível de abstração e não leva em conta o banco de dados em si, mas a forma como as estruturas serão criadas para armazenar os dados.
+Modelo Logico => eva em conta algumas limitações e implementa recursos como adequação de padrão e nomenclatura, define as chaves primárias e estrangeiras, normalização, integridade referencial, entre outras. Para o modelo lógico deve ser criado levando em conta os exemplos de modelagem de dados criados no modelo conceitual.
+Modelo Fisico =>  fazemos a modelagem física do modelo de banco de dados. Neste caso leva-se em conta as limitações impostas pelo SGBD escolhido e deve ser criado sempre com base nos exemplos de modelagem de dados produzidos no item anterior, modelo lógico.
+
+Desing de BDs:
+    Podemos ultilizar a linguagem textual ou grafica.
+    
+    1° passo => coleta de dados e analise
+    2° passo => criar um modelo conceital(alto nivel)
+    3° passo => definir requisitos funcionais e nao funcionais
+
+Processo de Modelagem:
+    Projeto conceital(o que vai ter?) => Logico(Como estruturar) => Fisico(como implementar)
+
