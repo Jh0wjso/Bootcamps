@@ -1,0 +1,19 @@
+Um modelo ER, faz parte do conceito conceitual. Ele define bascimente as diretrizes do banco de dados.
+O Foco do modelo ER vai mais no esquema tendo raras modificacoes e facil de manipular.
+
+Entidade => Vem de objeto, ela e um componente basico de existencia independente e que possui atributos.
+    Entidade <==> Objeto
+Atributos => sao bascimente propriedades, sao as caracteristicas/descricao das entidades, atributos estao relacionados as instancias, existem varios tibos de atributos, composto, multivalorado, armazenado e derivado, nulos e complexos.
+Key => sao bascimente os identificadores das entidades.
+
+
+Entidade Fraca, nao obrigatoriamente tem uma key, possui dependencia e sua exclusao esta em cascata.
+
+Relacionamento:
+   E bascimente uma funcao(se olharmos com a visao da teoria de conjuntos), ele possui um grau, se relacionamento ele podendo ser auto-relacional ou nao, e ele tambem possui uma cardinalidade(qual o numero que essa funcao leva).
+
+Constrain =>  que nada mais são restrições que você estabelece para uma coluna no banco de dados, que nada mais é de um método para validar a integridade de todos os dados que entram em sua base.
+
+ UML é o principal artefato produzido para representar a estrutura lógica de um software. Ele captura tanto os requisitos de dados como o comportamento dos objetos no domínio do modelo.
+
+ 
