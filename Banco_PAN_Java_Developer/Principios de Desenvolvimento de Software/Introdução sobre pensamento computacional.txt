@@ -1,0 +1,22 @@
+Neste primeiro modulo vimos um pouco sobre pensamento computacional, lógica de programação, 
+linguagens de programação e fundamentos de algoritmos são conceitos essenciais para a área de 
+tecnologia da informação e computação.
+
+O pensamento computacional refere-se à habilidade de resolver problemas de forma sistemática e lógica, 
+utilizando princípios e técnicas da ciência da computação. Essa habilidade é fundamental para a resolução 
+de problemas em diversas áreas, não apenas na programação.
+
+A lógica de programação é a base para a construção de programas de computador. Ela envolve o uso de técnicas 
+de raciocínio lógico para criar algoritmos que possam ser interpretados e executados por um computador. 
+O objetivo da lógica de programação é estruturar as ideias de um problema em uma sequência lógica de 
+instruções que podem ser compreendidas pelo computador.
+
+As linguagens de programação são os meios pelos quais os programas são criados. Elas fornecem uma sintaxe 
+e semântica que permite ao programador escrever o código que o computador pode entender e executar. 
+Existem muitas linguagens de programação disponíveis, cada uma com suas próprias características e 
+propósitos específicos.
+
+Por fim, os fundamentos de algoritmos são os conceitos básicos que permitem a criação de algoritmos 
+eficientes e confiáveis. Esses fundamentos incluem estruturas de dados, algoritmos de ordenação e busca, 
+técnicas de programação dinâmica, entre outros. Eles são essenciais para a criação de soluções robustas e 
+escaláveis para problemas complexos.
