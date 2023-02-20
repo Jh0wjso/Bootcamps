@@ -1,0 +1,27 @@
+Metodologias ágeis são uma abordagem para desenvolvimento de software que enfatiza a colaboração, a 
+flexibilidade e a entrega incremental de funcionalidades. O termo "ágil" foi cunhado em 2001, quando 
+um grupo de especialistas em desenvolvimento de software se reuniu em Utah para discutir uma alternativa
+ aos métodos tradicionais, que eram muitas vezes lentos, burocráticos e inflexíveis.
+
+Uma das metodologias ágeis mais populares é o Scrum, que é um processo iterativo e incremental para 
+gerenciamento de projetos. O Scrum se concentra em equipes auto gerenciadas e multidisciplinares, que 
+trabalham em sprints (ciclos de desenvolvimento) curtos, geralmente de uma a quatro semanas.
+
+O Scrum tem três papéis principais: o Product Owner, que é responsável por definir as funcionalidades do 
+produto e priorizar o backlog (lista de tarefas a serem realizadas); o Scrum Master, que atua como 
+facilitador da equipe e garante que o processo esteja sendo seguido corretamente; e a equipe de 
+desenvolvimento, que é responsável por criar o produto e cumprir as tarefas definidas pelo Product Owner.
+
+O Scrum tem vários artefatos importantes, incluindo o backlog do produto, que é uma lista priorizada de 
+funcionalidades que precisam ser desenvolvidas; o backlog da sprint, que é uma lista de tarefas a serem 
+realizadas durante a sprint atual; e o incremento, que é o resultado do trabalho realizado durante a sprint.
+
+O processo do Scrum é dividido em vários eventos, incluindo a sprint planning (planejamento da sprint), 
+daily scrum (reunião diária), sprint review (revisão da sprint) e sprint retrospective (retrospectiva da 
+sprint). Cada evento tem um objetivo específico e é projetado para ajudar a equipe a atingir os objetivos 
+da sprint e melhorar continuamente o processo.
+
+Em resumo, o Scrum é uma metodologia ágil popular que enfatiza a colaboração, a entrega incremental e a 
+flexibilidade. Com um processo iterativo e incremental, papéis bem definidos, artefatos importantes e 
+eventos regulares, o Scrum é projetado para ajudar as equipes a trabalharem juntas de forma eficiente e 
+entregarem produtos de alta qualidade de maneira consistente.
