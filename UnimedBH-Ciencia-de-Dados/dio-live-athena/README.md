@@ -1,4 +1,4 @@
-# dio-live-athena
+# Dio Live Athena
 Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
 
 ### Serviços utilizados nessa atividade prática
@@ -50,3 +50,8 @@ Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
 ### Eliminar recursos
  - Exluir os elementos criados
 
+## ✒️ Creator
+
+* **Developer** - [Jhonatan Silverio de Oliveira](https://github.com/Jh0wjso)
+
+---
