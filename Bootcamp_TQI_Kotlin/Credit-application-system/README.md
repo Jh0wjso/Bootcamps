@@ -43,8 +43,8 @@
 
 <h3>Autor</h3>
 
-<a href="https://www.linkedin.com/in/cami-la/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64323124?v=4" width="100px;" alt=""/>
+<a href="https://portifolio-jhojso.vercel.app/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/68076306?v=4" width="100px;" alt=""/>
  <br />
  <sub><bJhonatan Silverio</b></sub></a> <a href="https://www.instagram.com/camimi_la/" title="Instagram"></a>
 
