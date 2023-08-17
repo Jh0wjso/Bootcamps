@@ -1,29 +1,28 @@
-# 📘 Bootcmaps
 
-Repositório para guardar arquivos sobre os Bootcamps que estou fazendo ou já fiz.
+# 📘 Bootcamps Portfolio
 
-## 📓 Cloud DevOpsXP Banco Carrefour
+Welcome to my Bootcamps Portfolio repository! Here, I store files related to the bootcamps I am currently undertaking or have successfully completed.
 
-Descrição do programa feita pela DIO, *"O Cloud DevOps Experience - Banco Carrefour veio com uma trilha inédita de 101 horas para profissionais que já atuam na área e querem evoluir ou estão começando a estudar sobre DevOps. Com uma formação completa, o bootcamp completo sobre Linux, Docker, Kubernetes e Google Cloud Platform. As pessoas que concluírem o bootcamp poderão participar do Tech Day, uma oportunidade de desenvolver e apresentar um projeto para o time de tecnologia do Banco Carrefour."*
+## 📓 Cloud DevOpsXP at Banco Carrefour
+
+Description provided by DIO: *"The Cloud DevOps Experience at Banco Carrefour introduces an unprecedented 101-hour journey for professionals already working in the field, seeking to advance their knowledge in DevOps, or those who are just embarking on their DevOps studies. This comprehensive bootcamp covers Linux, Docker, Kubernetes, and Google Cloud Platform. Successful participants will have the opportunity to join Tech Day, an event where they can develop and present projects to Banco Carrefour's technology team."*
 
 ## 📓 Database Experience
 
-Descrição do programa feita pela DIO, "*Este é o primeiro bootcamp sobre Banco de Dados da DIO para profissionais que procuram uma experiência rápida em Ciência de Dados para se aprimorar nos principais conceitos de banco de dados SQL e NoSQL. No Database Experience você vai passar por 54 horas de imersão, com experiências educacionais e mentorias exclusivas sobre modelagem de dados, SGBD, EER, arquitetura, queries entre outras.  Após gerar o seu certificado de conclusão, o seu perfil ficará disponível para as empresas parceiras da DIO que estão contratando.*"
+Description provided by DIO: "*Dive into the world of databases with the first-ever DIO Bootcamp dedicated to Database Experience. Tailored for professionals seeking a swift immersion into Data Science, this program provides essential insights into SQL and NoSQL database concepts. Over the course of 54 hours, you will engage in educational experiences, exclusive mentorship sessions covering data modeling, SGBD, EER, architecture, queries, and more. Upon obtaining your completion certificate, your profile becomes visible to DIO's partner companies actively hiring.*"
 
 ## 📓 Spring Framework XP
 
-Descrição do programa feita pela DIO, "*A DIO dá Boas-vindas ao Bootcamp: Spring Framework Experience! Um programa repleto de cursos, desafio de código e desafios de projeto nas tecnologias Java - Spring Framework. Participe também de mentorias ao vivo, com conteúdos exclusivos sobre tecnologia e soft skills.*"
+Description provided by DIO: "*Welcome to the Spring Framework Experience Bootcamp by DIO! This comprehensive program offers a variety of courses, code challenges, and project assignments centered around Java and Spring Framework technologies. Engage in live mentoring sessions featuring exclusive content on technology and soft skills.*"
 
 ## 📓 Take Blip
 
-Descrição do programa feita pela DIO, "*Hey Dev, o que acha de aproveitar essa oportunidade única para se engajar ainda mais na tecnologia de JavaScript? Com o Bootcamp Take Blip Web Developer, você aprenderá o melhor de JavaScript – uma linguagem que entrega uma aplicação de ponta a ponta do Back-end ao Front-end (web ou mobile). Este Bootcamp faz parte do programa Órbi Academy Techboost, iniciativa da DIO junto ao Órbi Conecta, programa o qual oferecerá mais de 130 mil bolsas gratuitas de estudo em carreiras de tecnologia até 2022, fortalecendo ainda mais a comunidade tech brasileira."*
+Description provided by DIO: "*Hey Dev, how about seizing this unique opportunity to further immerse yourself in JavaScript technology? With the Take Blip Web Developer Bootcamp, you'll master the best of JavaScript – a language that powers end-to-end applications from Back-end to Front-end (web or mobile). This Bootcamp is part of the Órbi Academy Techboost program, a collaboration between DIO and Órbi Conecta, which aims to provide over 130,000 free study scholarships for tech careers until 2022, further strengthening the Brazilian tech community.*"
 
 ## 📓 Banco PAN Java Developer
 
-Programa do banco PAN focado no desenvolvimento java, descrição do programa feita pela DIO, "*O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha completa em Java Spring Boot e 5 mil bolsas de estudo disponíveis. É indicado para pessoas de baixa renda e de grupos sub representados que estão em busca de sua primeira formação no universo da tecnologia, entretanto, qualquer pessoa interessada pode participar."*
+Description provided by DIO: "*Introducing the inaugural Banco PAN program in partnership with DIO – a comprehensive Java Spring Boot journey with 5,000 available study scholarships. While designed to benefit individuals from low-income and underrepresented groups seeking their first steps into the world of technology, it is open to anyone interested.*"
 
 ## ✒️ Creator
 
 * **Developer** - [Jhonatan Silverio de Oliveira](https://github.com/Jh0wjso)
-
----
