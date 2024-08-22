@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhona\\Documents\\Studies\\Bootcamps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8CD537-35CD-46B3-96A2-A9ABD844D395}|XP Inc. - Full Stack Developer\\trilha-net-api-desafio-main\\TrilhaApiDesafio.csproj|c:\\users\\jhona\\documents\\studies\\bootcamps\\xp inc. - full stack developer\\trilha-net-api-desafio-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8CD537-35CD-46B3-96A2-A9ABD844D395}|XP Inc. - Full Stack Developer\\trilha-net-api-desafio-main\\TrilhaApiDesafio.csproj|solutionrelative:xp inc. - full stack developer\\trilha-net-api-desafio-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8CD537-35CD-46B3-96A2-A9ABD844D395}|XP Inc. - Full Stack Developer\\trilha-net-api-desafio-main\\TrilhaApiDesafio.csproj|c:\\users\\jhona\\documents\\studies\\bootcamps\\xp inc. - full stack developer\\trilha-net-api-desafio-main\\trilhaapidesafio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F8CD537-35CD-46B3-96A2-A9ABD844D395}|XP Inc. - Full Stack Developer\\trilha-net-api-desafio-main\\TrilhaApiDesafio.csproj|solutionrelative:xp inc. - full stack developer\\trilha-net-api-desafio-main\\trilhaapidesafio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jhona\\Documents\\Studies\\Bootcamps\\XP Inc. - Full Stack Developer\\trilha-net-api-desafio-main\\Program.cs",
+              "RelativeDocumentMoniker": "XP Inc. - Full Stack Developer\\trilha-net-api-desafio-main\\Program.cs",
+              "ToolTip": "C:\\Users\\jhona\\Documents\\Studies\\Bootcamps\\XP Inc. - Full Stack Developer\\trilha-net-api-desafio-main\\Program.cs",
+              "RelativeToolTip": "XP Inc. - Full Stack Developer\\trilha-net-api-desafio-main\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:02:44.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrilhaApiDesafio.csproj",
+              "DocumentMoniker": "C:\\Users\\jhona\\Documents\\Studies\\Bootcamps\\XP Inc. - Full Stack Developer\\trilha-net-api-desafio-main\\TrilhaApiDesafio.csproj",
+              "RelativeDocumentMoniker": "XP Inc. - Full Stack Developer\\trilha-net-api-desafio-main\\TrilhaApiDesafio.csproj",
+              "ToolTip": "C:\\Users\\jhona\\Documents\\Studies\\Bootcamps\\XP Inc. - Full Stack Developer\\trilha-net-api-desafio-main\\TrilhaApiDesafio.csproj",
+              "RelativeToolTip": "XP Inc. - Full Stack Developer\\trilha-net-api-desafio-main\\TrilhaApiDesafio.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-22T13:01:17.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
