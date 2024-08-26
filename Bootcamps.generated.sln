@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "XP Inc. - Full Stack Developer", "XP Inc. - Full Stack Developer", "{20F8ED9F-1853-4D12-B3FD-014C3E5D4807}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "XP Inc. - Full Stack Developer", "XP Inc. - Full Stack Developer", "{A827977F-8D29-4A4B-B5D1-C092883EB199}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrilhaApiDesafio", "XP Inc. - Full Stack Developer\trilha-net-api-desafio-main\TrilhaApiDesafio.csproj", "{A3D73103-00E5-46BA-B4EC-21F81A266A54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrilhaApiDesafio", "XP Inc. - Full Stack Developer\trilha-net-api-desafio-main\TrilhaApiDesafio.csproj", "{D1987E9D-839B-472D-BA77-9D93105D73AC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioProjetoHospedagem", "XP Inc. - Full Stack Developer\trilha-net-explorando-desafio-main\DesafioProjetoHospedagem.csproj", "{6507EAE9-CA68-48A4-AD58-3281EE8D8807}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioProjetoHospedagem", "XP Inc. - Full Stack Developer\trilha-net-explorando-desafio-main\DesafioProjetoHospedagem.csproj", "{F0B0B09B-18AC-4129-A906-A09E602F7ADC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioPOO", "XP Inc. - Full Stack Developer\trilha-net-poo-desafio-main\DesafioPOO.csproj", "{C58225D4-9009-48C5-B6A9-AB50F1D68804}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioPOO", "XP Inc. - Full Stack Developer\trilha-net-poo-desafio-main\DesafioPOO.csproj", "{2FDCBA86-9EA9-4D5C-A7DC-CF6E8678E6BF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "trilha-net-fundamentos-desafio-main", "trilha-net-fundamentos-desafio-main", "{28C63850-C2EA-4BCF-8E59-A114868A5A00}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Final_Porject", "Final_Porject", "{DC27BBC8-28FC-4BBC-9A73-C1F28345B4F0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioFundamentos", "XP Inc. - Full Stack Developer\trilha-net-fundamentos-desafio-main\DesafioFundamentos\DesafioFundamentos.csproj", "{5BD205C8-0CF4-4FCD-B254-541E7FC0838F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "minimal-api", "XP Inc. - Full Stack Developer\Final_Porject\minimal-api\minimal-api.csproj", "{7603B3AA-28EA-4492-B04F-50D42FA79E74}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "trilha-net-fundamentos-desafio-main", "trilha-net-fundamentos-desafio-main", "{26BCC687-D932-44D3-BD92-420DFF729361}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioFundamentos", "XP Inc. - Full Stack Developer\trilha-net-fundamentos-desafio-main\DesafioFundamentos\DesafioFundamentos.csproj", "{4AEF382C-8C2E-4E30-9D06-7FCE78BF9694}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,32 +25,38 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A3D73103-00E5-46BA-B4EC-21F81A266A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A3D73103-00E5-46BA-B4EC-21F81A266A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A3D73103-00E5-46BA-B4EC-21F81A266A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A3D73103-00E5-46BA-B4EC-21F81A266A54}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6507EAE9-CA68-48A4-AD58-3281EE8D8807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6507EAE9-CA68-48A4-AD58-3281EE8D8807}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6507EAE9-CA68-48A4-AD58-3281EE8D8807}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6507EAE9-CA68-48A4-AD58-3281EE8D8807}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C58225D4-9009-48C5-B6A9-AB50F1D68804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C58225D4-9009-48C5-B6A9-AB50F1D68804}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C58225D4-9009-48C5-B6A9-AB50F1D68804}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C58225D4-9009-48C5-B6A9-AB50F1D68804}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5BD205C8-0CF4-4FCD-B254-541E7FC0838F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5BD205C8-0CF4-4FCD-B254-541E7FC0838F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5BD205C8-0CF4-4FCD-B254-541E7FC0838F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5BD205C8-0CF4-4FCD-B254-541E7FC0838F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1987E9D-839B-472D-BA77-9D93105D73AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1987E9D-839B-472D-BA77-9D93105D73AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1987E9D-839B-472D-BA77-9D93105D73AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1987E9D-839B-472D-BA77-9D93105D73AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0B0B09B-18AC-4129-A906-A09E602F7ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0B0B09B-18AC-4129-A906-A09E602F7ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0B0B09B-18AC-4129-A906-A09E602F7ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0B0B09B-18AC-4129-A906-A09E602F7ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FDCBA86-9EA9-4D5C-A7DC-CF6E8678E6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FDCBA86-9EA9-4D5C-A7DC-CF6E8678E6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FDCBA86-9EA9-4D5C-A7DC-CF6E8678E6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FDCBA86-9EA9-4D5C-A7DC-CF6E8678E6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7603B3AA-28EA-4492-B04F-50D42FA79E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7603B3AA-28EA-4492-B04F-50D42FA79E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7603B3AA-28EA-4492-B04F-50D42FA79E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7603B3AA-28EA-4492-B04F-50D42FA79E74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AEF382C-8C2E-4E30-9D06-7FCE78BF9694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AEF382C-8C2E-4E30-9D06-7FCE78BF9694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AEF382C-8C2E-4E30-9D06-7FCE78BF9694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AEF382C-8C2E-4E30-9D06-7FCE78BF9694}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{A3D73103-00E5-46BA-B4EC-21F81A266A54} = {20F8ED9F-1853-4D12-B3FD-014C3E5D4807}
-		{6507EAE9-CA68-48A4-AD58-3281EE8D8807} = {20F8ED9F-1853-4D12-B3FD-014C3E5D4807}
-		{C58225D4-9009-48C5-B6A9-AB50F1D68804} = {20F8ED9F-1853-4D12-B3FD-014C3E5D4807}
-		{28C63850-C2EA-4BCF-8E59-A114868A5A00} = {20F8ED9F-1853-4D12-B3FD-014C3E5D4807}
-		{5BD205C8-0CF4-4FCD-B254-541E7FC0838F} = {28C63850-C2EA-4BCF-8E59-A114868A5A00}
+		{D1987E9D-839B-472D-BA77-9D93105D73AC} = {A827977F-8D29-4A4B-B5D1-C092883EB199}
+		{F0B0B09B-18AC-4129-A906-A09E602F7ADC} = {A827977F-8D29-4A4B-B5D1-C092883EB199}
+		{2FDCBA86-9EA9-4D5C-A7DC-CF6E8678E6BF} = {A827977F-8D29-4A4B-B5D1-C092883EB199}
+		{DC27BBC8-28FC-4BBC-9A73-C1F28345B4F0} = {A827977F-8D29-4A4B-B5D1-C092883EB199}
+		{7603B3AA-28EA-4492-B04F-50D42FA79E74} = {DC27BBC8-28FC-4BBC-9A73-C1F28345B4F0}
+		{26BCC687-D932-44D3-BD92-420DFF729361} = {A827977F-8D29-4A4B-B5D1-C092883EB199}
+		{4AEF382C-8C2E-4E30-9D06-7FCE78BF9694} = {26BCC687-D932-44D3-BD92-420DFF729361}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {74A8B5F6-4F49-41EE-B11D-D8627EA4614E}
